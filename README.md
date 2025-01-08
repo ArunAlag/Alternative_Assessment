@@ -63,6 +63,3 @@ from pycocotools.coco import COCO
 import random
 ```
 
-## Contributions & Feedback
-Feel free to contribute or report any issues! 🚀
-
